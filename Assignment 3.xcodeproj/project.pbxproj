@@ -13,6 +13,20 @@
 		D9219D3C28205F1000A81103 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9219D3A28205F1000A81103 /* Main.storyboard */; };
 		D9219D3E28205F1100A81103 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9219D3D28205F1100A81103 /* Assets.xcassets */; };
 		D9219D4128205F1100A81103 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9219D3F28205F1100A81103 /* LaunchScreen.storyboard */; };
+		D95047362820896700158B43 /* CoatroomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95047352820896700158B43 /* CoatroomViewController.swift */; };
+		D9504738282089DD00158B43 /* DinningroomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9504737282089DD00158B43 /* DinningroomViewController.swift */; };
+		D950473A28208A0000158B43 /* StairsupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D950473928208A0000158B43 /* StairsupViewController.swift */; };
+		D950473C28208A0A00158B43 /* LibraryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D950473B28208A0A00158B43 /* LibraryViewController.swift */; };
+		D950473E28208A2B00158B43 /* ServretpassageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D950473D28208A2B00158B43 /* ServretpassageViewController.swift */; };
+		D950474028208A3400158B43 /* KitchenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D950473F28208A3400158B43 /* KitchenViewController.swift */; };
+		D950474228208A4700158B43 /* BathroomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D950474128208A4700158B43 /* BathroomViewController.swift */; };
+		D950474428208A5100158B43 /* BedroomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D950474328208A5100158B43 /* BedroomViewController.swift */; };
+		D950474628208A6E00158B43 /* DungeonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D950474528208A6E00158B43 /* DungeonViewController.swift */; };
+		D950474828208A7700158B43 /* LaboratoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D950474728208A7700158B43 /* LaboratoryViewController.swift */; };
+		D950474A28208A8600158B43 /* MysteriousLakeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D950474928208A8600158B43 /* MysteriousLakeViewController.swift */; };
+		D950474C28208A9F00158B43 /* CursedChaliceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D950474B28208A9F00158B43 /* CursedChaliceViewController.swift */; };
+		D950474E28208AB400158B43 /* GeneratorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D950474D28208AB400158B43 /* GeneratorViewController.swift */; };
+		D950475028208ACE00158B43 /* BackPorchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D950474F28208ACE00158B43 /* BackPorchViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +38,20 @@
 		D9219D3D28205F1100A81103 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D9219D4028205F1100A81103 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D9219D4228205F1100A81103 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D95047352820896700158B43 /* CoatroomViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoatroomViewController.swift; sourceTree = "<group>"; };
+		D9504737282089DD00158B43 /* DinningroomViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DinningroomViewController.swift; sourceTree = "<group>"; };
+		D950473928208A0000158B43 /* StairsupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StairsupViewController.swift; sourceTree = "<group>"; };
+		D950473B28208A0A00158B43 /* LibraryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryViewController.swift; sourceTree = "<group>"; };
+		D950473D28208A2B00158B43 /* ServretpassageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServretpassageViewController.swift; sourceTree = "<group>"; };
+		D950473F28208A3400158B43 /* KitchenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KitchenViewController.swift; sourceTree = "<group>"; };
+		D950474128208A4700158B43 /* BathroomViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BathroomViewController.swift; sourceTree = "<group>"; };
+		D950474328208A5100158B43 /* BedroomViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BedroomViewController.swift; sourceTree = "<group>"; };
+		D950474528208A6E00158B43 /* DungeonViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DungeonViewController.swift; sourceTree = "<group>"; };
+		D950474728208A7700158B43 /* LaboratoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaboratoryViewController.swift; sourceTree = "<group>"; };
+		D950474928208A8600158B43 /* MysteriousLakeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MysteriousLakeViewController.swift; sourceTree = "<group>"; };
+		D950474B28208A9F00158B43 /* CursedChaliceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CursedChaliceViewController.swift; sourceTree = "<group>"; };
+		D950474D28208AB400158B43 /* GeneratorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeneratorViewController.swift; sourceTree = "<group>"; };
+		D950474F28208ACE00158B43 /* BackPorchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackPorchViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +88,20 @@
 				D9219D3628205F1000A81103 /* SceneDelegate.swift */,
 				D9219D3828205F1000A81103 /* ViewController.swift */,
 				D9219D3A28205F1000A81103 /* Main.storyboard */,
+				D950474F28208ACE00158B43 /* BackPorchViewController.swift */,
+				D950474D28208AB400158B43 /* GeneratorViewController.swift */,
+				D950474B28208A9F00158B43 /* CursedChaliceViewController.swift */,
+				D950474528208A6E00158B43 /* DungeonViewController.swift */,
+				D950474728208A7700158B43 /* LaboratoryViewController.swift */,
+				D950474928208A8600158B43 /* MysteriousLakeViewController.swift */,
+				D950474128208A4700158B43 /* BathroomViewController.swift */,
+				D950474328208A5100158B43 /* BedroomViewController.swift */,
+				D950473D28208A2B00158B43 /* ServretpassageViewController.swift */,
+				D950473F28208A3400158B43 /* KitchenViewController.swift */,
+				D950473928208A0000158B43 /* StairsupViewController.swift */,
+				D950473B28208A0A00158B43 /* LibraryViewController.swift */,
+				D9504737282089DD00158B43 /* DinningroomViewController.swift */,
+				D95047352820896700158B43 /* CoatroomViewController.swift */,
 				D9219D3D28205F1100A81103 /* Assets.xcassets */,
 				D9219D3F28205F1100A81103 /* LaunchScreen.storyboard */,
 				D9219D4228205F1100A81103 /* Info.plist */,
@@ -139,8 +181,22 @@
 			buildActionMask = 2147483647;
 			files = (
 				D9219D3928205F1000A81103 /* ViewController.swift in Sources */,
+				D950474628208A6E00158B43 /* DungeonViewController.swift in Sources */,
+				D9504738282089DD00158B43 /* DinningroomViewController.swift in Sources */,
+				D950474828208A7700158B43 /* LaboratoryViewController.swift in Sources */,
+				D950474C28208A9F00158B43 /* CursedChaliceViewController.swift in Sources */,
+				D950474228208A4700158B43 /* BathroomViewController.swift in Sources */,
 				D9219D3528205F1000A81103 /* AppDelegate.swift in Sources */,
+				D950474028208A3400158B43 /* KitchenViewController.swift in Sources */,
+				D950474A28208A8600158B43 /* MysteriousLakeViewController.swift in Sources */,
+				D950473A28208A0000158B43 /* StairsupViewController.swift in Sources */,
+				D950475028208ACE00158B43 /* BackPorchViewController.swift in Sources */,
+				D950473C28208A0A00158B43 /* LibraryViewController.swift in Sources */,
+				D95047362820896700158B43 /* CoatroomViewController.swift in Sources */,
 				D9219D3728205F1000A81103 /* SceneDelegate.swift in Sources */,
+				D950474428208A5100158B43 /* BedroomViewController.swift in Sources */,
+				D950474E28208AB400158B43 /* GeneratorViewController.swift in Sources */,
+				D950473E28208A2B00158B43 /* ServretpassageViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
